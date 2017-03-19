@@ -1,3 +1,18 @@
+# Create React Native with Redux example App
+
+This project is an opinionated refactor of this example: https://github.com/alinz/example-react-native-redux/tree/master/Counters
+
+To setup this project:
+
+```shell
+git clone git@github.com:guilhermebruzzi/create-react-native-redux-example-app.git
+npm install
+```
+
+And then see the Create React Native App commands below.
+
+## Create React Native App
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
