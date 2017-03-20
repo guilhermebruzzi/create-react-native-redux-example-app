@@ -13,7 +13,7 @@ const createActionDispatchers = actionCreators => dispatch =>
   }, {})
 
 const mapStateToProps = state => ({
-  countersState: state.counters, // gives our component access to state through props.toDoApp
+  countersState: state.counters, // gives our component access to state through props.countersState
 })
 const mapDispatchToProps = createActionDispatchers(actionCreators)
 
